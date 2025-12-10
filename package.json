@@ -1,0 +1,13 @@
+{
+  "name": "aungminko",
+  "version": "1.0.2",
+  "description": "make your package easier to find on the npm website",
+  "license": "MIT",
+  "author": "aung-ko-organization <aungminko28@gmail.com>",
+  "type": "commonjs",
+  "main": "package.json",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "keywords": []
+}
